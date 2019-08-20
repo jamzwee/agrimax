@@ -1497,7 +1497,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #b1a374;
 }
 .cid-rz8M8GiHxg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1577,7 +1577,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rz8M8GiHxg .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.4rem);
+    max-height: calc(98.5vh - 5.5rem);
   }
 }
 .cid-rz8M8GiHxg .collapsed button.navbar-toggler {
