@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
@@ -20,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -2127,8 +2128,8 @@ body {
 }
 .cid-rzEDfdPtXp {
   padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/overview-5780x2287-4-2000x791.jpg");
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/overview-1920x760-1-1920x760.jpg");
 }
 .cid-rzEDfdPtXp H2 {
   color: #4f4943;
@@ -2215,7 +2216,7 @@ body {
 }
 .cid-rz8UvNCtFg {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/mbr-1920x1397.jpg");
 }
 .cid-rz8UvNCtFg H2 {
@@ -3066,7 +3067,7 @@ body {
 }
 .cid-rzEDiAolfz {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/mbr-1920x1920.jpg");
 }
 .cid-rzEDiAolfz H2 {
@@ -3538,7 +3539,7 @@ body {
 }
 .cid-rzEDbQBOnS {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/mbr-1920x1397.jpg");
 }
 .cid-rzEDbQBOnS H2 {
@@ -4045,7 +4046,7 @@ body {
 }
 .cid-rzEDgYpeEc {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-rzEDgYpeEc H2 {
