@@ -2574,7 +2574,7 @@ body {
 .cid-rzEDiAolfz {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/mbr-1920x1920.jpg");
+  background-image: url("../../../assets/images/contact-us-banner2-1520x1140.jpg");
 }
 .cid-rzEDiAolfz H2 {
   color: #4f4943;
@@ -3046,84 +3046,153 @@ body {
 .cid-rzEDbQBOnS {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/mbr-1920x1397.jpg");
+  background-image: url("../../../assets/images/our-people-banner-1981x2400.jpg");
 }
 .cid-rzEDbQBOnS H2 {
   color: #4f4943;
 }
-.cid-rzEFVwYGNF {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rBbli5V0Ur {
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rzEFVwYGNF h2 {
+.cid-rBbli5V0Ur .mbr-section-subtitle {
+  color: #82786e;
+}
+.cid-rBbli5V0Ur H2 {
+  color: #82786e;
   text-align: center;
 }
-.cid-rzEFVwYGNF h3 {
-  text-align: center;
-  font-weight: 300;
+.cid-rBbli5V0Ur .mbr-section-subtitle B {
+  color: #55b4d4;
 }
-.cid-rzEFVwYGNF p {
-  color: #767676;
+.cid-rBbiWkmF9H {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
-.cid-rzEFVwYGNF img {
-  object-fit: cover;
-}
-.cid-rzEFVwYGNF .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-basis: 100%;
-  -webkit-flex-basis: 100%;
-}
-.cid-rzEFVwYGNF .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-rzEFVwYGNF .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-.cid-rzEFVwYGNF .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rzEFVwYGNF .card-title {
+.cid-rBbiWkmF9H h4 {
+  text-align: left;
   font-weight: 500;
 }
-.cid-rzEFVwYGNF .card-img {
-  text-align: inherit;
+.cid-rBbiWkmF9H p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
 }
-.cid-rzEFVwYGNF .card-img span {
-  font-size: 48px;
-  color: #707070;
+.cid-rBbiWkmF9H .card-img {
+  text-align: left;
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+  width: auto;
 }
-@media (min-width: 992px) {
-  .cid-rzEFVwYGNF .mbr-figure {
-    padding-right: 2rem;
-    padding-left: 2rem;
-    height: 100%;
-  }
+.cid-rBbiWkmF9H .card-img span {
+  font-size: 72px;
+  color: #ff3366;
+}
+.cid-rBbiWkmF9H .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+  width: 100%;
 }
 @media (max-width: 991px) {
-  .cid-rzEFVwYGNF .mbr-figure {
-    padding-bottom: 2rem;
-    padding-top: 1rem;
+  .cid-rBbiWkmF9H .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+  .cid-rBbiWkmF9H .card-box {
+    padding-left: 0;
   }
 }
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-rzEFVwYGNF .block-content {
-    flex-direction: row;
-    -webkit-flex-direction: row;
-    text-align: center;
+.cid-rBbnkOML2o {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rBbnkOML2o .mbr-section-subtitle {
+  color: #82786e;
+}
+.cid-rBbnkOML2o H2 {
+  color: #82786e;
+  text-align: center;
+}
+.cid-rBbnkOML2o .mbr-section-subtitle B {
+  color: #55b4d4;
+}
+.cid-rBbhBvlIYG {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rBbhBvlIYG h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rBbhBvlIYG p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-rBbhBvlIYG .card-img {
+  text-align: left;
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+  width: auto;
+}
+.cid-rBbhBvlIYG .card-img span {
+  font-size: 72px;
+  color: #ff3366;
+}
+.cid-rBbhBvlIYG .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+  width: 100%;
+}
+@media (max-width: 991px) {
+  .cid-rBbhBvlIYG .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
   }
-  .cid-rzEFVwYGNF .block-content .card {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
+  .cid-rBbhBvlIYG .card-box {
+    padding-left: 0;
   }
-  .cid-rzEFVwYGNF .card:nth-child(1) {
-    padding-bottom: 0!important;
+}
+.cid-rBbfMx6e3S {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rBbfMx6e3S h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rBbfMx6e3S p {
+  color: #767676;
+  text-align: left;
+  margin-bottom: 0;
+}
+.cid-rBbfMx6e3S .card-img {
+  text-align: left;
+  -webkit-flex: 1 0 auto;
+  flex: 1 0 auto;
+  width: auto;
+}
+.cid-rBbfMx6e3S .card-img span {
+  font-size: 72px;
+  color: #ff3366;
+}
+.cid-rBbfMx6e3S .card-box {
+  padding-left: 1rem;
+  word-break: break-word;
+  width: 100%;
+}
+@media (max-width: 991px) {
+  .cid-rBbfMx6e3S .card-img {
+    text-align: left;
+    padding-bottom: 0.75rem;
+  }
+  .cid-rBbfMx6e3S .card-box {
+    padding-left: 0;
   }
 }
 .cid-rzEDbQYcqA {
@@ -4743,29 +4812,47 @@ body {
 .cid-rzEDfdPtXp {
   padding-top: 120px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/our-brand-banner-1920x1397-7-1920x1397.jpg");
+  background-image: url("../../../assets/images/our-brand-banner-1600x1066.jpg");
 }
 .cid-rzEDfdPtXp H2 {
   color: #4f4943;
 }
-.cid-rA4LZIZDuE {
+.cid-rBaY6KHiB1 {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-rA4LZIZDuE .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rA4LZIZDuE .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rA4LZIZDuE .mbr-text {
-  color: #767676;
+.cid-rBaY6KHiB1 .mbr-section-subtitle {
+  color: #82786e;
   text-align: left;
+}
+.cid-rBaY6KHiB1 H2 {
+  color: #82786e;
+  text-align: center;
+}
+.cid-rBaY6KHiB1 .mbr-section-subtitle DIV {
+  text-align: center;
+}
+.cid-rBb2TnxMMR {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rBb2TnxMMR .image-block {
+  margin: auto;
+}
+.cid-rBb2TnxMMR figcaption {
+  position: relative;
+}
+.cid-rBb2TnxMMR figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rBb2TnxMMR .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rzEFolNcEn {
   padding-top: 30px;
@@ -4831,7 +4918,7 @@ body {
 .cid-rAvM6UM4RP {
   padding-top: 120px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/wheatcrop-1048x786.jpg");
+  background-image: url("../../../assets/images/our-products-banner-3-1600x787.jpg");
 }
 .cid-rAvM6UM4RP H2 {
   color: #4f4943;
